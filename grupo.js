@@ -1,1 +1,1 @@
-console.log("Felipe, Deb, Kethilly, CV, Sofia e Vinicius")
+console.log("Felipe, Deb, Kethilly, CV, Sofia")
